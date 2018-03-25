@@ -1,5 +1,5 @@
                             //Smart Farming e-Monitoring System
-                          //BSKAP-A-THON 2k18 Competition
+                             //BSKAP-A-THON 2k18 Competition
                           
 
 #include <ArduinoJson.h>
@@ -35,8 +35,8 @@ unsigned long oldTime;
 int sample = 0;
 
 
-#define DEF_WIFI_SSID "Hackathon"  //Your WiFi SSID
-#define DEF_WIFI_PSK "Smart Farming" //Your WiFi password
+#define DEF_WIFI_SSID "Boodskap"  //Your WiFi SSID
+#define DEF_WIFI_PSK "Farming" //Your WiFi password
 #define DEF_DOMAIN_KEY "TJGYUOZMUF" //your DOMAIN Key
 #define DEF_API_KEY "ebqaneP8KmCR" //Your API Key
 #define DEF_DEVICE_MODEL "BSKP-GSR" //Your device model
